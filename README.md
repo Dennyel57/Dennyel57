@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dennyel57
+- I am a mannagement graduate in Bragança
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL and Python
 
